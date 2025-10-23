@@ -1,0 +1,256 @@
+CENTRAL (NATIONAL) SCHEMES
+1) PM Surya Ghar: Muft Bijli Yojana (National Rooftop Solar Programme)
+
+Short description: Central household rooftop solar subsidy & program (national rooftop portal / DISCOM aggregation model). Designed to accelerate residential rooftop adoption and integrate with net-metering; includes central financial assistance (CFA) and utility aggregation models. 
+pmsuryaghar.gov.in
++1
+
+Eligibility: Residential/domestic consumers with grid-tied rooftop installations; must use empanelled/approved vendors and follow MNRE technical specs. 
+Ministry of New and Renewable Energy
+
+Subsidy / typical amounts: Typical CFA figures published on the national portal: ₹30,000 per kW for 1 kW, ₹60,000 for 2 kW, and up to ₹78,000 cap for ~3 kW (operational guidelines vary by category and utility). Some descriptions say up to ~40% of system cost or specific slabbed CFA — check portal for your DISCOM. 
+pmsuryaghar.gov.in
++1
+
+View more (official): National Portal / PM Surya Ghar — pmsuryaghar.gov.in / MNRE grid-connected rooftop page. 
+pmsuryaghar.gov.in
++1
+
+Documents required (typical): Latest electricity bill (consumer number), Aadhaar, PAN, bank account details (for subsidy credit), property/roof proof, vendor quotation, signed application. 
+pmsuryaghar.gov.in
+
+Where to apply: Register & apply on https://pmsuryaghar.gov.in
+ or through your local DISCOM’s rooftop solar portal (link on national portal). 
+solarrooftop.pmsuryaghar.gov.in
+
+2) MNRE — Grid-Connected Rooftop Solar Programme (operational guidelines & CFA)
+
+Short description: MNRE’s overall program (operational guidelines, CFA mechanisms, RESCO/utility led models and net-metering guidelines). It’s the policy/technical backbone for rooftop subsidy rollouts. 
+Ministry of New and Renewable Energy
+
+Eligibility & notes: Residential and non-residential categories defined in guidelines; utilities and aggregators have dedicated operational routes. Refer to MNRE for the exact category definitions & timelines. 
+Ministry of New and Renewable Energy
+
+View more: MNRE scheme page & operational guideline PDFs. 
+Ministry of New and Renewable Energy
+
+Where to apply / documents: As per MNRE & national portal; DISCOM channels for local processing. 
+Ministry of New and Renewable Energy
+
+3) PM-KUSUM (Pradhan Mantri Kisan Urja Suraksha evam Utthaan Mahabhiyan)
+
+Short description: Central scheme for farmers — supports (A) decentralized ground/stilt solar plants, (B) standalone solar agriculture pumps, (C) solarisation of existing grid-connected pumps. Designed to replace diesel pumps and boost agri-solar. 
+Ministry of New and Renewable Energy
++1
+
+Eligibility: Farmers, farmer groups, panchayats or agro-entrepreneurs as per state implementation rules; differing components have different eligibility. 
+Ministry of New and Renewable Energy
+
+Subsidy / support: Central financial assistance up to ~30% (typical) for pumps; states often add top-ups. Component-specific caps and percentages vary — see the MNRE PM-KUSUM page. 
+Ministry of New and Renewable Energy
+
+View more: MNRE PM-KUSUM page. 
+Ministry of New and Renewable Energy
+
+Documents required / where to apply: Farmer ID (Aadhaar), electricity connection details, land/pump ownership proof, bank details — apply via state implementing agency / DISCOM / TEDA (state portal). 
+Ministry of New and Renewable Energy
+
+TAMIL NADU – STATE & DISCOM-LEVEL SCHEMES
+4) Chief Minister’s Solar Rooftop Capital Incentive Scheme (Tamil Nadu)
+
+Short description: Tamil Nadu state capital incentive that stacks with central subsidy to make residential rooftop installs cheaper. 
+myScheme
++1
+
+Eligibility: Domestic (residential) consumers with TANGEDCO/TNPDCL connection; system must be grid-connected and installed by empanelled/approved vendors. 
+Govt Schemes India
+
+Subsidy / amount: ₹20,000 per kW (state incentive) — intended to be in addition to central subsidy (so you can stack both). Verify current operational details on TN portals. 
+myScheme
++1
+
+View more: Tamil Nadu scheme pages / state scheme registries (Govt schemes / environment pages). 
+myScheme
++1
+
+Documents required: Latest electricity bill (TANGEDCO/TNPDCL), Aadhaar, PAN, bank account, roof proof, empanelled vendor quote. 
+Govt Schemes India
+
+Where to apply: Through TANGEDCO/TEDA or via the national rooftop portal as directed by TN authorities — vendor often initiates the process. 
+Govt Schemes India
++1
+
+5) TEDA / TANGEDCO / TNPDCL — Empanelment, Net-metering & Fast-track processing
+
+Short description: TEDA and Tamil Nadu DISCOMs maintain empanelled vendor lists, technical specifications, and process net-metering + subsidy verification. TNPDCL has announced fast processing timelines (subsidy credit in ~15 days if docs/vendor details OK — local news/utility advisory). 
+tnebltd.gov.in
++1
+
+View more / vendor lists: TEDA / TNEB / DISCOM vendor PDFs and the national portal vendor list (state filter). 
+tnebltd.gov.in
++1
+
+Where to apply / docs: Apply through empanelled vendor who submits to DISCOM/TEDA; provide standard KYC + EB bill + technical docs. 
+tnebltd.gov.in
+
+6) MSME rooftop network charge concessions (TN)
+
+Short description: Tamil Nadu has policies (notifications/news) that reduce rooftop network charges for MSMEs (reported 50% reduction in some announcements) to encourage industry uptake. Check DISCOM orders for precise eligibility and usage caps. 
+Sunsure Energy
+
+View more: SolarQuarter / DISCOM circulars — confirm via your local DISCOM. 
+Sunsure Energy
+
+7) Government building tenders / large-scale rooftop tenders (TN)
+
+Short description: State periodically issues tenders (example: ~40 MW tender for government offices) to install rooftop solar on public buildings — useful for large aggregations or vendors. 
+Bluebird Solar
+
+Where to apply: State procurement portals / DISCOM tender pages. 
+Bluebird Solar
+
+BANKS & FINANCIAL INSTITUTIONS (LOANS & PRODUCTS)
+
+Note: bank interest rates and product details change frequently. I’m including the major providers and links to their product pages so you can see current rates and apply.
+
+8) State Bank of India (SBI) — PM Surya Ghar / Solar Roof Top Loan
+
+Short description: SBI offers a dedicated Surya Ghar loan integrated with PM Surya Ghar (loans for residential rooftop systems, small EMIs, subsidy pass-through options). 
+State Bank of India
++1
+
+Eligibility: Residential homeowners, subject to bank credit rules. No collateral for small loans (≤ certain cap). 
+State Bank of India
+
+Loan limits / rates (examples): Up to ₹2 lakh — interest quoted ~6.00% p.a. for small slab; >₹2 lakh up to ₹6 lakh — ~8.15% p.a. (slabs shown on SBI product page; rates updated periodically). Tenure: up to 10 years (subject to T&C). 
+State Bank of India
++1
+
+View more / apply: SBI Surya Ghar pages & SBI Green Loans portal (apply online or at SBI branch). 
+State Bank of India
++1
+
+Documents required / where to apply: KYC, latest electricity bill, vendor quote; apply via SBI online portal or branch. 
+State Bank of India
+
+9) IREDA (Indian Renewable Energy Development Agency)
+
+Short description: Government finance NBFC (under MNRE) providing dedicated loans, bridge finance, credit enhancement and loan schemes for rooftop solar (esp. commercial/industrial/aggregator projects). Useful for larger rooftop portfolios. 
+ireda.in
++1
+
+Eligibility: Institutional, commercial, industrial, aggregator projects; some products for residential aggregators via different financing windows. 
+ireda.in
+
+View more / apply: IREDA schemes & loan application forms (IREDA website). 
+ireda.in
++1
+
+Documents required / where to apply: See IREDA loan checklist & forms on their site (project report, vendor agreements, EB bills, financials). 
+ireda.in
+
+10) Union Bank of India / Canara Bank / PNB / Other major banks
+
+Short description: Most large banks offer dedicated solar/home green loans (digital solar loans, low documentation for small amounts, vendor tie-ups). Specific features vary by bank & time. Examples include Union Bank digital offers, Canara Bank housing+solar combos, PNB rooftop financing. 
+Buddy Loan
++1
+
+Where to apply / view more: Individual bank websites (search “rooftop solar loan + <bank name>” or ask me and I’ll fetch current offers for 3–5 banks). 
+Buddy Loan
++1
+
+FINANCING / AGGREGATOR / OTHER SUPPORT
+11) DISCOM Aggregation / Utility-led Models
+
+Short description: Under PM Surya Ghar, some DISCOMs run aggregator/RESCO models where the utility or aggregator installs, operates, and the household buys power or gets subsidy pass-through. Good for users who want turnkey solutions. 
+solarrooftop.pmsuryaghar.gov.in
++1
+
+Where to apply: Local DISCOM portal (links on the national rooftop portal). 
+solarrooftop.pmsuryaghar.gov.in
+
+12) State / Local Top-ups & District Schemes
+
+Short description: States or districts sometimes offer additional top-ups (e.g., horticulture/irrigation subsidies in other states, special municipal campaigns). These are local and change frequently — check your district/state portals. Example: some districts/states announced 50% pump subsidies for small farmers (state news). 
+The Times of India
++1
+
+HOW TO APPLY — QUICK CHECKLIST (applies across most schemes)
+
+Choose an empanelled vendor (TEDA / DISCOM vendor lists). 
+tnebltd.gov.in
++1
+
+Get a detailed quote & SDS / single-line diagram from vendor.
+
+Register on the national portal (pmsuryaghar.gov.in) OR the local DISCOM portal; vendor usually helps. 
+pmsuryaghar.gov.in
+
+Apply for bank loan (if needed): SBI, Union, Canara, PNB, IREDA etc. — submit KYC + electricity bill + vendor quote. 
+State Bank of India
++1
+
+Install → DISCOM inspection → net-meter installation → subsidy claim submitted → subsidy credited (often to bank account or loan account depending on bank). 
+solarrooftop.pmsuryaghar.gov.in
++1
+
+DOCUMENT CHECKLIST (comprehensive)
+
+Latest electricity bill (consumer number) — mandatory for all rooftop schemes. 
+pmsuryaghar.gov.in
+
+Aadhaar, PAN, passport photo, signed forms. 
+pmsuryaghar.gov.in
+
+Bank passbook / cancelled cheque (for subsidy credit). 
+pmsuryaghar.gov.in
+
+Property/roof ownership proof or NOC from owner. 
+pmsuryaghar.gov.in
+
+Vendor quotation, system specs (PLM, inverter details), single line diagram. 
+ireda.in
+
+For PM-KUSUM (pumps): farmer ID, land/pump proof, EB details. 
+Ministry of New and Renewable Energy
+
+QUICK REFERENCE — OFFICIAL PAGES (click to verify)
+
+PM Surya Ghar / National Rooftop Portal — pmsuryaghar.gov.in. 
+pmsuryaghar.gov.in
++1
+
+MNRE Grid-Connected Rooftop programme (operational guidelines) — mnre.gov.in. 
+Ministry of New and Renewable Energy
+
+PM-KUSUM (MNRE) — mnre.gov.in / PM-KUSUM. 
+Ministry of New and Renewable Energy
+
+Tamil Nadu Chief Minister’s Solar Rooftop Capital Incentive — state scheme pages (myscheme/govt pages). 
+myScheme
++1
+
+SBI Surya Ghar loan product page — sbi.co.in. 
+State Bank of India
+
+IREDA financing & rooftop loan scheme — ireda.in. 
+ireda.in
++1
+
+TEDA / TNEB empanelled vendor list (examples) — DISCOM/TNEB PDF & national vendor API. 
+tnebltd.gov.in
++1
+
+A few important cautions / tips
+
+Rates & rules change. Always confirm the exact subsidy amount, cap and eligibility for your category and district on the official links above before paying any advance to vendors. (MNRE and DISCOM notifications frequently update operational details.) 
+Ministry of New and Renewable Energy
++1
+
+Empanelled vendor requirement: Most subsidies require installation by an empanelled vendor — check TEDA/DISCOM vendor lists. 
+tnebltd.gov.in
++1
+
+Subsidy disbursement may go to your bank account OR to the loan account / vendor depending on the financing route and bank policy — check with your bank & vendor. 
+State Bank of India
++1

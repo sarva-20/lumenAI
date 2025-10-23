@@ -1,0 +1,58 @@
+{
+  "placeholderImages": [
+    {
+      "id": "hero-background",
+      "description": "Solar panels on a modern house roof under a sunny sky.",
+      "imageUrl": "https://images.unsplash.com/flagged/photo-1566838616631-f2618f74a6a2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8c29sYXIlMjBwYW5lbHN8ZW58MHx8fHwxNzYwODQyMDMzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "solar panels"
+    },
+    {
+      "id": "analysis-placeholder",
+      "description": "An aerial view of a residential rooftop.",
+      "imageUrl": "https://images.unsplash.com/photo-1548572565-316a66cc3b3b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8cm9vZnRvcCUyMGFlcmlhbHxlbnwwfHx8fDE3NjA4ODkzNTR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "rooftop aerial"
+    },
+    {
+      "id": "installer-avatar-1",
+      "description": "Avatar for a solar installer.",
+      "imageUrl": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxwcm9mZXNzaW9uYWwlMjBwb3J0cmFpdHxlbnwwfHx8fDE3NjA4MjI4ODB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "professional portrait"
+    },
+    {
+      "id": "installer-avatar-2",
+      "description": "Avatar for another solar installer.",
+      "imageUrl": "https://images.unsplash.com/photo-1740498169795-72b61970e7da?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHx0ZWNobmljaWFuJTIwc21pbGluZ3xlbnwwfHx8fDE3NjA4MzI3NTJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "technician smiling"
+    },
+    {
+      "id": "installer-avatar-3",
+      "description": "Avatar for a third solar installer.",
+      "imageUrl": "https://images.unsplash.com/photo-1558222218-b7b54eede3f3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8YnVzaW5lc3MlMjBwZXJzb258ZW58MHx8fHwxNzYwODUxNzg3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "business person"
+    },
+    {
+      "id": "forum-user-1",
+      "description": "Avatar for a forum user.",
+      "imageUrl": "https://images.unsplash.com/photo-1607529378676-a20456ee2f6b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxwZXJzb24lMjBzbWlsaW5nfGVufDB8fHx8MTc2MDg2MDcxNXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "person smiling"
+    },
+    {
+      "id": "forum-user-2",
+      "description": "Avatar for another forum user.",
+      "imageUrl": "https://images.unsplash.com/photo-1535295972055-1c762f4483e5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxoYXBweSUyMHBlcnNvbnxlbnwwfHx8fDE3NjA4MzU0OTl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "happy person"
+    },
+    {
+      "id": "roof-image-1",
+      "description": "A sample roof image for analysis.",
+      "imageUrl": "https://images.unsplash.com/photo-1566071634551-224a639a1c7d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxob3VzZSUyMHJvb2Z8ZW58MHx8fHwxNzYwODU4NzMwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "house roof"
+    },
+    {
+      "id": "roof-image-2",
+      "description": "Another sample roof image for analysis.",
+      "imageUrl": "https://images.unsplash.com/photo-1755113717103-eceec858546a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxzaGluZ2xlJTIwcm9vZnxlbnwwfHx8fDE3NjA4NTg3MzB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "shingle roof"
+    }
+  ]
+}

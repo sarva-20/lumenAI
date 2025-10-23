@@ -1,0 +1,202 @@
+{
+  "entities": {
+    "User": {
+      "title": "User",
+      "description": "A user of the LumenAI application.",
+      "type": "object",
+      "properties": {
+        "displayName": {
+          "type": "string",
+          "description": "The user's full name."
+        },
+        "email": {
+          "type": "string",
+          "format": "email",
+          "description": "The user's email address."
+        },
+        "photoURL": {
+          "type": "string",
+          "format": "uri",
+          "description": "URL of the user's profile picture."
+        },
+        "role": {
+          "type": "string",
+          "description": "The user's role in the application.",
+          "enum": ["homeowner", "installer"]
+        },
+        "createdAt": {
+          "type": "string",
+          "format": "date-time",
+          "description": "The timestamp when the user account was created."
+        },
+        "serviceLocations": {
+          "type": "string",
+          "description": "The areas or cities where the installer provides services. Only for installers."
+        },
+        "companyName": {
+          "type": "string",
+          "description": "The installer's company name. Only for installers."
+        },
+        "companyDescription": {
+          "type": "string",
+          "description": "A short description of the installer's company and services. Only for installers."
+        },
+        "pricingDetails": {
+          "type": "string",
+          "description": "A description of the installer's pricing model (e.g., '$$ - Competitive'). Only for installers."
+        },
+        "latitude": {
+            "type": "number",
+            "description": "The latitude of the installer's primary location."
+        },
+        "longitude": {
+            "type": "number",
+            "description": "The longitude of the installer's primary location."
+        }
+      },
+      "required": ["displayName", "email", "role", "createdAt"]
+    },
+    "Product": {
+      "title": "Product",
+      "description": "A solar product listed by an installer.",
+      "type": "object",
+      "properties": {
+        "name": {
+          "type": "string",
+          "description": "The name of the product."
+        },
+        "price": {
+          "type": "string",
+          "description": "The price of the product."
+        },
+        "description": {
+          "type": "string",
+          "description": "A description of the product."
+        },
+        "imageUrl": {
+          "type": "string",
+          "format": "uri",
+          "description": "URL of the product image."
+        }
+      },
+      "required": ["name", "price", "description", "imageUrl"]
+    },
+    "Query": {
+        "title": "Query",
+        "description": "A message sent from a homeowner to an installer.",
+        "type": "object",
+        "properties": {
+            "homeownerId": {
+                "type": "string",
+                "description": "The UID of the homeowner sending the query."
+            },
+            "homeownerName": {
+                "type": "string",
+                "description": "The display name of the homeowner."
+            },
+            "homeownerPhotoUrl": {
+                "type": "string",
+                "format": "uri",
+                "description": "The photo URL of the homeowner."
+            },
+            "installerId": {
+                "type": "string",
+                "description": "The UID of the installer receiving the query."
+            },
+            "installerName": {
+                "type": "string",
+                "description": "The company name of the installer."
+            },
+            "message": {
+                "type": "string",
+                "description": "The content of the message."
+            },
+            "mobileNumber": {
+                "type": "string",
+                "description": "The homeowner's mobile number."
+            },
+            "location": {
+                "type": "string",
+                "description": "The homeowner's location (e.g., city or address)."
+            },
+            "status": {
+                "type": "string",
+                "description": "The status of the query.",
+                "enum": ["new", "read", "completed", "archived"]
+            },
+            "createdAt": {
+                "type": "string",
+                "format": "date-time",
+                "description": "The timestamp when the query was sent."
+            }
+        },
+        "required": ["homeownerId", "homeownerName", "message", "status", "createdAt", "mobileNumber", "location", "installerId", "installerName"]
+    },
+    "ForumPost": {
+        "title": "ForumPost",
+        "description": "A post in the community forum.",
+        "type": "object",
+        "properties": {
+            "title": { "type": "string" },
+            "content": { "type": "string" },
+            "authorId": { "type": "string" },
+            "authorName": { "type": "string" },
+            "authorPhotoURL": { "type": "string", "format": "uri" },
+            "createdAt": { "type": "string", "format": "date-time" },
+            "commentCount": { "type": "number" },
+            "viewCount": { "type": "number" }
+        },
+        "required": ["title", "content", "authorId", "authorName", "createdAt"]
+    },
+    "ForumComment": {
+        "title": "ForumComment",
+        "description": "A comment on a forum post.",
+        "type": "object",
+        "properties": {
+            "content": { "type": "string" },
+            "authorId": { "type": "string" },
+            "authorName": { "type": "string" },
+            "authorPhotoURL": { "type": "string", "format": "uri" },
+            "createdAt": { "type": "string", "format": "date-time" }
+        },
+        "required": ["content", "authorId", "authorName", "createdAt"]
+    }
+  },
+  "auth": {
+    "providers": ["google.com", "password"]
+  },
+  "firestore": {
+    "/users/{userId}": {
+      "schema": {
+        "$ref": "#/entities/User"
+      },
+      "description": "Stores public information about a user."
+    },
+    "/users/{userId}/queries/{queryId}": {
+      "schema": {
+        "$ref": "#/entities/Query"
+      },
+      "description": "Stores queries sent by homeowners to this installer."
+    },
+    "/queries/{queryId}": {
+        "schema": {
+            "$ref": "#/entities/Query"
+        },
+        "description": "A top-level collection of queries for easy fetching by homeowners."
+    },
+     "/users/{userId}/products/{productId}": {
+      "schema": {
+        "$ref": "#/entities/Product"
+      },
+      "description": "Stores products listed by an installer."
+    },
+    "/forumPosts/{postId}": {
+        "schema": { "$ref": "#/entities/ForumPost" },
+        "description": "Stores all posts for the community forum."
+    },
+    "/forumPosts/{postId}/comments/{commentId}": {
+        "schema": { "$ref": "#/entities/ForumComment" },
+        "description": "Stores comments for a specific forum post."
+    }
+  }
+}
