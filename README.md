@@ -1,3 +1,6 @@
+### Needs updation - 30/12/2025 (under maintenance)
+
+
 # LumenAI - Your AI-Powered Solar Journey
 
 LumenAI is a comprehensive web application designed to simplify the process of transitioning to solar energy. By leveraging cutting-edge AI, LumenAI provides homeowners and landowners with the tools they need to make informed decisions, from initial feasibility analysis to connecting with professional installers.
